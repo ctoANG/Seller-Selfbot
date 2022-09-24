@@ -1,0 +1,19 @@
+{
+  "client": {
+    "token": "TOKENHERE",
+    "ascii": "\n    ___    _   ________\n   /   |  / | / / ____/\n  / /| | /  |/ / / __  \n / ___ |/ /|  / /_/ /  \n/_/  |_/_/ |_/\\____/   \n                       \n"
+  },
+  "wallets": {
+    "LTC": "LbeKifpLftsXpACa1kn1cES5DJXx9agUBb",
+    "BTC": "bc1q4ly939gscc9qpj4h9wadct2qjkxm9x5darjlu6",
+    "ETH": "0xe0377D5Ad4a5e3db52bFB7590aC1D70D1eB32a3a"
+  },
+  "signature": {
+    "URL": "https://cracked.io/Thread-%E2%98%95-Morpheus-To-Coding-and-Config-Service-Vouched-Make-your-Dreams-come-true-%E2%98%95",
+    "IMG": "https://images-ext-1.discordapp.net/external/GwHltXTXwHSkHh3UCGjROPUzQu3PU9fm-X77li6t35I/https/i.ibb.co/BVkBkbD/Morpheus-Signature.gif",
+    "USERNAME": "ANG"
+  },
+  "vouch": {
+    "URL": "https://cracked.io/Thread-%E2%98%95-Morpheus-To-Coding-and-Config-Service-Vouched-Make-your-Dreams-come-true-%E2%98%95"
+  }
+}
